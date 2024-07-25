@@ -1,0 +1,1 @@
+"%~dp0Docker Desktop Installer.exe" Uninstall --quiet --accept-license
